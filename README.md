@@ -1,0 +1,1 @@
+This is docker nginx image, based on official nginx:0.17.5 compiled with nginx-module-vts module.
